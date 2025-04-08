@@ -14,3 +14,8 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+
+git remote add origin https://github.com/SuelaneSilva/-PL-NYPD-Ferramentas-de-desenvolvimento-em-Python-que-suportam-a-analise-de-dados.git
+git branch -M main
+git push -u origin main
