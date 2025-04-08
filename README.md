@@ -1,3 +1,4 @@
+@j-paszek
 GIT introduction
 
 https://gitlab.uw.edu.pl/python-tools/git-laboratory https://gitlab.mimuw.edu.pl/python-tools/git-laboratory
